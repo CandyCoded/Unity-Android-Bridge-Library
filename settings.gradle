@@ -1,0 +1,2 @@
+include ':app:androidbridgelibrary'
+rootProject.name = "Unity Android Bridge Library"
